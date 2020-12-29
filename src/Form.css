@@ -1,0 +1,17 @@
+.form{
+    display:flex;
+    flex-direction:column;
+}
+  
+form .fname{
+    margin-bottom : 30px;
+}
+form .lname{
+    margin-bottom : 30px;
+}
+.submitbtn{
+    margin-top : 30px;
+}
+.MuiButton-label{
+    pointer-events: none;
+}

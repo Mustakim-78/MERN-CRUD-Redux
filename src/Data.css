@@ -1,0 +1,11 @@
+.data{
+    margin:30px;
+}
+.displayimg{
+    height:100px;
+    width:100px;
+    object-fit: cover;
+}
+.MuiButton-label{
+    pointer-events:none;
+}
